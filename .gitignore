@@ -18,6 +18,8 @@ tags
 elm-stuff
 # elm-repl generated files
 repl-temp-*
+# elm-verify-examples generated test filed
+VerifyExamples
 
 ### https://raw.github.com/github/gitignore/2664dad61f3fda7755acc70ceb5aac4b1e956981/Node.gitignore
 
